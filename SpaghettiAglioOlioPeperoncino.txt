@@ -1,0 +1,10 @@
+#Spaghetti aglio, olio, peperonicino
+
+uno dei miei piatti preferiti
+
+##ingredienti
+
+* spaghetti
+* aglio
+* olio
+*pereroncino
